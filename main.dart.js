@@ -81495,7 +81495,7 @@ this.e=s
 this.f=A.aV1(s)},
 S(a){var s=null,r=A.c([B.HN,B.HU,B.HK],t.a9),q=A.na(s,B.a7,s,s,s,s,s,s,s,s,s,!1),p=A.na(s,B.k,s,s,s,s,s,s,s,s,s,!1),o=this.f
 o===$&&A.a()
-return new A.ti(o,new A.aql(),"Galaxy Of Knowledge S11 T",q,p,this.d,r,B.Lu,!1,s)}}
+return new A.ti(o,new A.aql(),"Galaxy Of Knowledge",q,p,this.d,r,B.Lu,!1,s)}}
 A.aql.prototype={
 $2(a,b){var s=null,r=b==null?new A.l0(0,0,s,s):b
 return A.lQ(new A.fm(new A.av(0,412,0,1/0),r,s),s,s)},
@@ -81543,7 +81543,7 @@ else j=A.aP(g)
 j=A.h4(B.Kk,j,h,24)
 if(k)k=(A.O(a).ax.a===B.k?A.aq():A.ar()).gis()
 else k=A.aP(g)
-l=A.c([new A.j6(n),new A.j6(m),new A.j6(A.hy(A.c([j,A.dn("Computer Science",h,B.b4,A.n9(h,h,k,h,h,h,h,h,h,h,h,11,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h)],l),B.a3,B.cy,B.aB))],t.gI)
+l=A.c([new A.j6(n),new A.j6(m),new A.j6(A.hy(A.c([j,A.dn("CS",h,B.b4,A.n9(h,h,k,h,h,h,h,h,h,h,h,11,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h)],l),B.a3,B.cy,B.aB))],t.gI)
 q=A.aSV(B.n,8,s,11,24,8,l,new A.aqn(i,f),o,q,p,1/0)
 return A.AI(h,h,e,new A.y3(l,B.n,8,q,new A.cD(0,0,0,0),new A.cD(0,0,0,0),1/0,0,h),!0,h,!0)}}
 A.aqn.prototype={
